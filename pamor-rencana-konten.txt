@@ -3,7 +3,8 @@ RENCANA KONTEN PAMOR
 -javascript
  *Method
  *Framework javascript
-   ^vue 
+  ^Laravel
+  ^vue 
 -Struktur data dasar
 -Php framework
   ^laravel
