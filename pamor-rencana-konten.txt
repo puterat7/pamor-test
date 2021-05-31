@@ -1,0 +1,8 @@
+RENCANA KONTEN PAMOR
+
+-javascript
+ *Method
+ *Framework javascript
+-Php framework
+-Interview
+-Vlogs
