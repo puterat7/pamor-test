@@ -2,4 +2,5 @@ PAMOR RESOLUSI
 -Konsisten untuk mengerjakan tugas tepat waktu
 -Membuat website yg bermanfaat bagi orang banyak
 -Membuat aplikasi
-  
+-Membuat merch shop 
+-Berkolaborasi dengan sesama developer
